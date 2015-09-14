@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="ButtonLight">
+        <item name="android:background">#004D40</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">35dp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="ButtonFunction">
+        <!-- Customize your theme here. -->
+        <item name="android:background">@drawable/ripple</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">35dp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+
+
+</resources>
